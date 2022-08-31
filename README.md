@@ -10,7 +10,10 @@ Deployed websie: https://kanishkk19.github.io/CountdownTimer/
 <hr>
 
 
-![2](https://user-images.githubusercontent.com/90362538/187636330-32aff527-2885-4cde-a3c2-20ca70deb0dd.png)
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/90362538/187639921-90ffda7d-0d65-40b3-9d4f-f46a8f48bb0f.png" width="500" /> 
+  <img src="https://user-images.githubusercontent.com/90362538/187639990-b1cb2f78-05e7-4a7d-a2e7-88b200641009.png" width="500" />
+</p>
 
 
 
