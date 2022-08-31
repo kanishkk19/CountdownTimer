@@ -5,12 +5,12 @@ Interactive website that prompts the user to enter a date and proceeds to show t
 DEPLOYEMENT:
 <br>
 <br>
-Deployed websie: https://kanishkk19.github.io/TinDog/ 
+Deployed websie: https://kanishkk19.github.io/CountdownTimer/ 
 
-<hr>![1](https://user-images.githubusercontent.com/90362538/187635725-0bc7675e-ff31-42d3-a6c6-35b5414bd8aa.png)
 <hr>
 
-![2](https://user-images.githubusercontent.com/90362538/187635733-e5679623-7554-4181-85c0-9c9f839d5a5f.png)
+
+![2](https://user-images.githubusercontent.com/90362538/187636330-32aff527-2885-4cde-a3c2-20ca70deb0dd.png)
 
 
 
